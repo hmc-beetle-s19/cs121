@@ -1,2 +1,1 @@
-"# cs121"      # create a README
-"# cs121" 
+"# cs121"
